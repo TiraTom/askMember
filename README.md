@@ -1,5 +1,8 @@
 # README
 
+いろいろレポジトリ作ってまともに完成させられていないので、単純機能のものを１つ完成させる！
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
