@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  root 'api/players#index'
+
+  get "/apis", action => "apis#index"
+  get "/voice", action => "voices#index"
 
 #  namespace :api, {format: 'json'} do
 #    namespace :orders do
