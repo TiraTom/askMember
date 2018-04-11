@@ -1,27 +1,8 @@
 # README
 
-いろいろレポジトリ作ってまともに完成させられていないので、単純機能のものを１つ完成させる！
+いろいろレポジトリ作ってまともに完成させられていないので、単純機能のものを１つ完成させる！<br>
+``` http://localhost:3000/?name=xxxxx ``` でアクセスすると、nameに設定した選手が今試合（ただしヤクルトの選手のみ）に出場しているかどうかがわかる。<br>
+今はJSON形式で返してくれる。<br>
 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- ruby 2.2.3p173 
